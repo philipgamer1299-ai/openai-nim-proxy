@@ -28,7 +28,7 @@ const MODEL_MAPPING = {
   'gpt-4o': 'deepseek-ai/deepseek-v3.1',
   'claude-3-opus': 'openai/gpt-oss-120b',
   'claude-3-sonnet': 'moonshotai/kimi-k2-thinking',
-  'gemini-pro': 'deepseek-ai/deepseek-v3.1' 
+  'gemini-pro': 'minimaxai/minimax-m2' 
 };
 
 // Health check endpoint
