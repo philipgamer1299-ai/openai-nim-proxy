@@ -28,7 +28,7 @@ const MODEL_MAPPING = {
   'gpt-4o': 'qwen/qwen3-235b-a22b',
   'claude-3-opus': 'openai/gpt-oss-120b',
   'claude-3-sonnet': 'moonshotai/kimi-k2-thinking',
-  'gemini-pro': 'minimaxai/minimax-m2' 
+  'gemini-pro': 'qwen/qwen3-next-80b-a3b-thinking' 
 };
 
 // Health check endpoint
