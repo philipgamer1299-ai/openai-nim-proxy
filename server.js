@@ -28,7 +28,7 @@ const MODEL_MAPPING = {
   'gpt-4o': 'moonshotai/kimi-k2-instruct',
   'claude-3-opus': 'deepseek-ai/deepseek-v3.2',
   'claude-3-sonnet': 'moonshotai/kimi-k2-thinking',
-  'gemini-pro': 'deepseek-ai/deepseek-v3.1-terminus' 
+  'gemini-pro': 'mistralai/mistral-large-3-675b-instruct-2512' 
 };
 
 // Health check endpoint
